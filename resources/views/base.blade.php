@@ -140,7 +140,7 @@
                             <li>
                                 <i class="icons icon-phone text-color-primary text-5-5 position-relative top-2 me-2"></i>
                                 <a href="tel:+971555425513" class="text-color-light font-weight-bold text-decoration-none text-5">+971 55 542 5513
-                                    •</a>
+                                </a>
                             </li>
                             <li class="mb-3">
                                 <i class="icons icon-envelope text-color-primary text-6 position-relative top-6 me-2"></i>
