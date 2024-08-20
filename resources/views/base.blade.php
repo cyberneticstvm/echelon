@@ -82,9 +82,9 @@
                             <div class="header-column justify-content-end">
                                 <div class="header-row">
                                     <ul class="header-social-icons social-icons social-icons-clean d-none d-lg-block">
-                                        <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a></li>
-                                        <li class="social-icons-instagram"><a href="http://www.instagram.com/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                        <li class="social-icons-facebook"><a href="https://www.facebook.com/echelonconsultantsllc" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                        <!--<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a></li>-->
+                                        <li class="social-icons-instagram"><a href="https://www.instagram.com/echelon.consultants/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
                                     </ul>
                                     <a href="{{ route('contact') }}" class="btn btn-primary btn-px-4 py-3 font-weight-bold text-2 rounded-0 ms-lg-4">REQUEST CONSULTATION</a>
                                 </div>
@@ -153,13 +153,13 @@
                         </ul>
                         <ul class="custom-social-icons-style-1 social-icons social-icons-clean">
                             <li class="social-icons-instagram">
-                                <a href="http://www.instagram.com/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/echelon.consultants/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                             </li>
-                            <li class="social-icons-twitter mx-4">
+                            <!--<li class="social-icons-twitter mx-4">
                                 <a href="http://www.twitter.com/" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
-                            </li>
+                            </li>-->
                             <li class="social-icons-facebook">
-                                <a href="http://www.facebook.com/" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                             </li>
                         </ul>
                     </div>

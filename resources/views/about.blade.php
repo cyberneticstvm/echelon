@@ -108,13 +108,13 @@
                 </ul>
                 <ul class="custom-social-icons-style-1 social-icons social-icons-clean">
                     <li class="social-icons-instagram">
-                        <a href="http://www.instagram.com/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/echelon.consultants/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                     </li>
-                    <li class="social-icons-twitter mx-4">
+                    <!--<li class="social-icons-twitter mx-4">
                         <a href="http://www.twitter.com/" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
-                    </li>
+                    </li>-->
                     <li class="social-icons-facebook">
-                        <a href="http://www.facebook.com/" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                     </li>
                 </ul>
             </div>
