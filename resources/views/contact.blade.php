@@ -57,39 +57,66 @@
                 <h3 class="d-block alternative-font-4 text-color-primary font-weight-medium text-4 text-lg mb-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="400">LET'S TALK</h3>
                 <h2 class="text-color-dark font-weight-bold text-9 text-lg pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Request Consultation</h2>
 
-                <form class="contact-form custom-form-style-1 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800" action="php/contact-form.php" method="POST">
+                <form class="custom-form-style-1 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800" action="{{ route('contact.submit') }}" method="POST">
+                    @csrf
+                    @session('success')
                     <div class="contact-form-success alert alert-success d-none mt-4">
                         <strong>Success!</strong> Your request has been sent to us.
                     </div>
-
+                    @endsession
+                    @session('error')
                     <div class="contact-form-error alert alert-danger d-none mt-4">
                         <strong>Error!</strong> There was an error sending your request.
                         <span class="mail-error-message text-1 d-block"></span>
                     </div>
-
+                    @endsession
                     <div class="row">
                         <div class="form-group col mb-3">
-                            <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control border-radius-0" name="name" id="name" required placeholder="Name *">
+                            <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control border-radius-0" name="name" id="name" required placeholder="Name *" value="{{ old('name') }}">
                         </div>
+                        @error('name')
+                        <small class="text-danger">{{ $errors->first('name') }}</small>
+                        @enderror
                     </div>
                     <div class="row">
                         <div class="form-group col mb-3">
-                            <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control border-radius-0" name="email" id="email" required placeholder="E-mail *">
+                            <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control border-radius-0" name="email" id="email" required placeholder="E-mail *" value="{{ old('email') }}">
                         </div>
+                        @error('email')
+                        <small class="text-danger">{{ $errors->first('email') }}</small>
+                        @enderror
                     </div>
                     <div class="row">
                         <div class="form-group col mb-3">
-                            <input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control border-radius-0" name="phone" id="phone" required placeholder="Phone *">
+                            <input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control border-radius-0" name="phone" id="phone" required placeholder="Phone *" value="{{ old('phone') }}">
                         </div>
+                        @error('phone')
+                        <small class="text-danger">{{ $errors->first('phone') }}</small>
+                        @enderror
                     </div>
                     <div class="row">
                         <div class="form-group col mb-4">
-                            <textarea maxlength="5000" data-msg-required="Please enter your message." rows="9" class="form-control border-radius-0" name="message" id="message" required placeholder="Message *"></textarea>
+                            <textarea maxlength="5000" data-msg-required="Please enter your message." rows="9" class="form-control border-radius-0" name="message" id="message" required placeholder="Message *">{{ old('message') }}</textarea>
                         </div>
+                        @error('message')
+                        <small class="text-danger">{{ $errors->first('message') }}</small>
+                        @enderror
+                    </div>
+                    <div class="row">
+                        <div class="form-group col-6 mb-4">
+                            <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha" required>
+                        </div>
+                        <div class="form-group col-6 mb-4 captcha">
+                            <span>{!! captcha_img('math') !!}</span>
+                            <a class="btn btn-success btn-refresh"><i class="fa fa-refresh"></i></a>
+                        </div>
+                        @error('captcha')
+                        <small class="text-danger">{{ $errors->first('captcha') }}</small>
+                        @enderror
                     </div>
                     <div class="row">
                         <div class="form-group col text-lg-end mb-0">
-                            <button type="submit" class="btn btn-primary font-weight-bold btn-px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350" data-loading-text="Loading...">REQUEST CONSULTATION</button>
+                            <button type="submit" class="btn btn-primary btn-submit">REQUEST CONSULTATION</button>
                         </div>
                     </div>
                 </form>
