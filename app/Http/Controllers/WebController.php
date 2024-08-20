@@ -45,7 +45,7 @@ class WebController extends Controller
             [
                 'name' => 'required',
                 'email' => 'required|email',
-                'contact' => 'required',
+                'phone' => 'required',
                 'message' => 'required',
                 'captcha' => 'required|captcha',
             ],
