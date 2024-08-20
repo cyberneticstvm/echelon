@@ -61,13 +61,12 @@
                     @csrf
                     @session('success')
                     <div class="contact-form-success alert alert-success mt-4">
-                        <strong>Success!</strong> Your request has been sent to us.
+                        {{ session('success') }}
                     </div>
                     @endsession
                     @session('error')
                     <div class="contact-form-error alert alert-danger mt-4">
-                        <strong>Error!</strong> There was an error sending your request.
-                        <span class="mail-error-message text-1"></span>
+                        {{ session('error') }}
                     </div>
                     @endsession
                     <div class="row">
