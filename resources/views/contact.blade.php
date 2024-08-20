@@ -60,14 +60,14 @@
                 <form class="custom-form-style-1 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800" action="{{ route('contact.submit') }}" method="POST">
                     @csrf
                     @session('success')
-                    <div class="contact-form-success alert alert-success d-none mt-4">
+                    <div class="contact-form-success alert alert-success mt-4">
                         <strong>Success!</strong> Your request has been sent to us.
                     </div>
                     @endsession
                     @session('error')
-                    <div class="contact-form-error alert alert-danger d-none mt-4">
+                    <div class="contact-form-error alert alert-danger mt-4">
                         <strong>Error!</strong> There was an error sending your request.
-                        <span class="mail-error-message text-1 d-block"></span>
+                        <span class="mail-error-message text-1"></span>
                     </div>
                     @endsession
                     <div class="row">
