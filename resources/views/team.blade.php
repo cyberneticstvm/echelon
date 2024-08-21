@@ -32,10 +32,10 @@
             <div class="col-md-3 col-lg-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="200">
                 <a href="demo-law-firm-2-attorney-detail.html" class="text-decoration-none">
                     <div class="card custom-card-style-1 border-0 border-radius-0 custom-box-shadow-1">
-                        <img src="{{ asset('/assets/img/demos/law-firm-2/team/shihan.jpeg') }}" class="card-img-top border-radius-0" alt="Mr. Shihan Wijayagunawardane Image" />
+                        <img src="{{ asset('/assets/img/team/shihan.png') }}" class="card-img-top border-radius-0" alt="Mr. Shihan Wijayagunawardane Image" />
                         <div class="card-body px-4 py-5">
                             <h2 class="card-title alternative-font-4 text-color-dark font-weight-semibold line-height-1 text-5 mb-1">Mr. Shihan Wijayagunawardane</h2>
-                            <p class="text-color-grey positive-ls-3 mb-3">MANAGING PARTNER</p>
+                            <p class="text-color-grey positive-ls-3 mb-3">PARTNER</p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-2"></p>
                             <br />
                         </div>
@@ -45,11 +45,12 @@
             <div class="col-md-3 col-lg-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="400">
                 <a href="demo-law-firm-2-attorney-detail.html" class="text-decoration-none">
                     <div class="card custom-card-style-1 border-0 border-radius-0 custom-box-shadow-1">
-                        <img src="{{ asset('/assets/img/demos/law-firm-2/team/yogesh.png') }}" class="card-img-top border-radius-0" alt="Mr. Yogesh Bhola Image" />
+                        <img src="{{ asset('/assets/img/team/yogesh.png') }}" class="card-img-top border-radius-0" alt="Mr. Yogesh Bhola Image" />
                         <div class="card-body px-4 py-5">
                             <h2 class="card-title alternative-font-4 text-color-dark font-weight-semibold line-height-1 text-5 mb-1">Mr. Yogesh Bhola</h2>
-                            <p class="text-color-grey positive-ls-3 mb-3">MANAGING PARTNER</p>
+                            <p class="text-color-grey positive-ls-3 mb-3">PARTNER</p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-2"></p>
+                            <br /><br />
                         </div>
                     </div>
                 </a>

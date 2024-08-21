@@ -155,9 +155,9 @@
                             <li class="social-icons-instagram">
                                 <a href="https://www.instagram.com/echelon.consultants/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                             </li>
-                            <!--<li class="social-icons-twitter mx-4">
-                                <a href="http://www.twitter.com/" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
-                            </li>-->
+                            <li class="social-icons-twitter mx-4">
+                                <a href=" https://x.com/Echelon1001" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
+                            </li>
                             <li class="social-icons-facebook">
                                 <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                             </li>

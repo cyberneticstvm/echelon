@@ -19,7 +19,7 @@
     <div class="container py-5 my-4">
         <div class="row py-2">
             <div class="col">
-                <h2 class="text-color-dark font-weight-bold text-10 mb-4"><em>Echelon Consultants – Your Legal Experts in Dubai, Colombo, and Singapore</em></h2>
+                <h2 class="text-color-dark font-weight-bold text-10 mb-4"><em>Echelon Consultants – Echelon Legal and Corporate Consultants</em></h2>
             </div>
         </div>
         <div class="row">
@@ -110,9 +110,9 @@
                     <li class="social-icons-instagram">
                         <a href="https://www.instagram.com/echelon.consultants/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                     </li>
-                    <!--<li class="social-icons-twitter mx-4">
-                        <a href="http://www.twitter.com/" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
-                    </li>-->
+                    <li class="social-icons-twitter mx-4">
+                        <a href="https://x.com/Echelon1001" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
+                    </li>
                     <li class="social-icons-facebook">
                         <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                     </li>
