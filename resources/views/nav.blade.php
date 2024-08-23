@@ -3,7 +3,7 @@
         <div class="header-column">
             <div class="header-row">
                 <div class="header-logo">
-                    <a href="demo-law-firm-2.html">
+                    <a href="{{ route('index') }}">
                         <img src="{{ asset('/assets/img/demos/law-firm-2/logo.png') }}" class="img-fluid" alt="" />
                     </a>
                 </div>

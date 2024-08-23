@@ -83,8 +83,9 @@
                                 <div class="header-row">
                                     <ul class="header-social-icons social-icons social-icons-clean d-none d-lg-block">
                                         <li class="social-icons-facebook"><a href="https://www.facebook.com/echelonconsultantsllc" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                        <!--<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a></li>-->
+                                        <li class="social-icons-twitter"><a href="https://x.com/Echelon1001" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a></li>
                                         <li class="social-icons-instagram"><a href="https://www.instagram.com/echelon.consultants/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                        <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/echelon-consultants-llc" target="_blank" title="Linked In"><i class="fab fa-linkedin"></i></a></li>
                                     </ul>
                                     <a href="{{ route('contact') }}" class="btn btn-primary btn-px-4 py-3 font-weight-bold text-2 rounded-0 ms-lg-4">REQUEST CONSULTATION</a>
                                 </div>
@@ -104,7 +105,7 @@
                     <div class="col-lg-3 mb-5 mb-lg-0">
                         <h5 class="text-transform-none font-weight-bold text-color-light text-5-5 mb-4">About Us</h5>
                         <p class="text-3-5">Echelon Consultants is a distinguished legal and corporate services firm with a strong presence in Dubai, Colombo, and Singapore. Our firm was established with a clear vision: to provide businesses and individuals with the highest quality legal services that are both accessible and effective.</p>
-                        <a href="demo-law-firm-2.html" class="text-decoration-none">
+                        <a href="{{ route('index') }}" class="text-decoration-none">
                             <img src="{{ asset('/assets/img/demos/law-firm-2/logo.png') }}" class="img-fluid" alt="" />
                         </a>
                     </div>
@@ -142,6 +143,11 @@
                                 <a href="tel:+971555425513" class="text-color-light font-weight-bold text-decoration-none text-5">+971 55 542 5513
                                 </a>
                             </li>
+                            <li>
+                                <i class="fab fa-whatsapp text-color-primary text-5-5 position-relative top-2 me-2"></i>
+                                <a href="tel:+971528686158" class="text-color-light font-weight-bold text-decoration-none text-5">+971 52 868 6158
+                                </a>
+                            </li>
                             <li class="mb-3">
                                 <i class="icons icon-envelope text-color-primary text-6 position-relative top-6 me-2"></i>
                                 <a href="mailto:info@echelonconsultant.com" class="text-color-light text-decoration-none text-4">info@echelonconsultant.com</a>
@@ -156,10 +162,13 @@
                                 <a href="https://www.instagram.com/echelon.consultants/" class="no-footer-css" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                             </li>
                             <li class="social-icons-twitter mx-4">
-                                <a href=" https://x.com/Echelon1001" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
+                                <a href="https://x.com/Echelon1001" class="no-footer-css" target="_blank" title="Twitter"><i class="fab fa-x-twitter"></i></a>
                             </li>
                             <li class="social-icons-facebook">
                                 <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li class="social-icons-linked-in mx-4">
+                                <a href="https://www.linkedin.com/company/echelon-consultants-llc" class="no-footer-css" target="_blank" title="Linked In"><i class="fab fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -175,7 +184,11 @@
                 </div>
             </div>
         </footer>
-
+        <!--Whatsapp-->
+        <div class="floating">
+            <a href="https://api.whatsapp.com/send?phone=971555425513&text=Hello!%20I%20am%20interested%20in%20your%20service" target="_blank"><img src="{{ asset('/assets/img/whatsapp.svg') }}" alt="Echelon Whatsapp" /></a>
+        </div>
+        <!-- Scroll To Top -->
     </div>
 
     <!-- Vendor -->

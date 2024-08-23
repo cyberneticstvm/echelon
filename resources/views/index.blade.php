@@ -131,7 +131,7 @@
     <div class="container py-5 mt-3">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 mb-5 mb-lg-0">
-                <h2 class="text-color-dark font-weight-extra-bold text-10 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"><em>Echelon Consultants – Your Legal Experts in Dubai, Colombo, and Singapore</em></h2>
+                <h2 class="text-color-dark font-weight-extra-bold text-10 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"><em>Echelon Consultants – Your Legal and Corporate Service Experts in Dubai, Colombo, and Singapore</em></h2>
                 <p class="font-weight-light text-color-dark mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Echelon Consultants is a distinguished legal and corporate services firm with a strong presence in Dubai, Colombo, and Singapore. Our firm was established with a clear vision: to provide businesses and individuals with the highest quality legal services that are both accessible and effective.</p>
                 <!--<p class="positive-ls-3 text-color-grey mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">JOHN DOE - CEO & FOUNDER</p>
                 <img src="{{ asset('/assets/img/demos/law-firm-2/signature.png') }}" class="img-fluid appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700" alt="" />-->
@@ -187,13 +187,13 @@
             <div class="row counters counters-sm py-5">
                 <div class="col-sm-6 col-lg-3 mb-5 mb-lg-0">
                     <div class="counter">
-                        <strong class="text-color-light font-weight-bold line-height-1 text-13 mb-1" data-to="50" data-append="+" data-plugin-options="{'appendWrapper': '<span class=text-color-primary></span>'}">0</strong>
+                        <strong class="text-color-light font-weight-bold line-height-1 text-13 mb-1" data-to="20" data-append="+" data-plugin-options="{'appendWrapper': '<span class=text-color-primary></span>'}">0</strong>
                         <label class="text-color-light font-weight-bold text-4 mb-0">Business Year</label>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-3 mb-5 mb-lg-0">
                     <div class="counter">
-                        <strong class="text-color-light font-weight-bold line-height-1 text-13 mb-1" data-to="240" data-append="+" data-plugin-options="{'appendWrapper': '<span class=text-color-primary></span>'}">0</strong>
+                        <strong class="text-color-light font-weight-bold line-height-1 text-13 mb-1" data-to="3500" data-append="+" data-plugin-options="{'appendWrapper': '<span class=text-color-primary></span>'}">0</strong>
                         <label class="text-color-light font-weight-bold text-4 mb-0">Satiesfied Clients</label>
                     </div>
                 </div>
@@ -203,176 +203,15 @@
                         <label class="text-color-light font-weight-bold text-4 mb-0">Successfull Cases</label>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-3">
+                <!--<div class="col-sm-6 col-lg-3">
                     <div class="counter">
                         <strong class="text-color-light font-weight-bold line-height-1 text-13 mb-1" data-to="20" data-append="+" data-plugin-options="{'appendWrapper': '<span class=text-color-primary></span>'}">0</strong>
                         <label class="text-color-light font-weight-bold text-4 mb-0">Professional Attorneys</label>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>
-
-    <div class="container py-5 my-3">
-        <div class="row align-items-center">
-            <div class="col-lg-6 mb-5 mb-lg-0">
-                <div class="card bg-primary border-0 border-radius-0">
-                    <div class="card-body p-5">
-                        <h3 class="d-block alternative-font-4 text-color-light font-weight-medium opacity-8 text-4 mb-0">ANY QUESTIONS?</h3>
-                        <h2 class="text-color-light font-weight-bold text-9 pb-2 mb-4">Frequent Asked Questions</h2>
-
-                        <div class="custom-seemore-overlay mb-4" style="max-height: 400px;">
-                            <div class="custom-accordion-style-1 accordion accordion-modern" id="FAQAccordion">
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQOne">
-                                                1- Why choose Porto Law?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQOne" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQTwo">
-                                                2- Why do I need an attorney?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQTwo" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQFour">
-                                                3- Cras a elit sit amet leo accumsan volutpa?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQFour" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQFive">
-                                                4- Integer aliquet ullamcorper dolor?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQFive" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQSix">
-                                                5- Efficitur felis ultrices non?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQSix" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQSeven">
-                                                6- Efficitur sit a met non?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQSeven" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card card-default">
-                                    <div class="card-header">
-                                        <h4 class="card-title m-0">
-                                            <a class="accordion-toggle text-color-dark font-weight-semibold text-2-5 collapsed" data-bs-toggle="collapse" href="#collapseFAQEight">
-                                                7- Efficitur felis ultrices non dolor sit?
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <div id="collapseFAQEight" class="collapse" data-bs-parent="#FAQAccordion">
-                                        <div class="card-body ps-4 pt-2">
-                                            <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="#" class="custom-seemore-overlay-button text-color-light text-5"><i class="fas fa-chevron-down position-relative z-index-1"></i></a>
-                        </div>
-
-                        <a href="{{ route('contact') }}" class="btn custom-btn-primary-darken font-weight-bold btn-px-5 btn-py-3">CONTACT US</a>
-                    </div>
-                </div>
-            </div>
-            <div id="requestConsultation" class="col-lg-6 col-xl-5 offset-xl-1">
-                <h3 class="d-block alternative-font-4 text-color-primary font-weight-medium text-4 text-lg-end mb-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="400">LET'S TALK</h3>
-                <h2 class="text-color-dark font-weight-bold text-9 text-lg-end pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Request Consultation</h2>
-
-                <form class="contact-form custom-form-style-1 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800" action="php/contact-form.php" method="POST">
-                    <div class="contact-form-success alert alert-success d-none mt-4">
-                        <strong>Success!</strong> Your request has been sent to us.
-                    </div>
-
-                    <div class="contact-form-error alert alert-danger d-none mt-4">
-                        <strong>Error!</strong> There was an error sending your request.
-                        <span class="mail-error-message text-1 d-block"></span>
-                    </div>
-
-                    <div class="row">
-                        <div class="form-group col mb-3">
-                            <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control border-radius-0" name="name" id="name" required placeholder="Name *">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group col mb-3">
-                            <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control border-radius-0" name="email" id="email" required placeholder="E-mail *">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group col mb-3">
-                            <input type="text" value="" data-msg-required="Please enter your phone number." maxlength="100" class="form-control border-radius-0" name="phone" id="phone" required placeholder="Phone *">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group col mb-4">
-                            <textarea maxlength="5000" data-msg-required="Please enter your message." rows="9" class="form-control border-radius-0" name="message" id="message" required placeholder="Message *"></textarea>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group col text-lg-end mb-0">
-                            <button type="submit" class="btn btn-primary font-weight-bold btn-px-5 btn-py-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350" data-loading-text="Loading...">REQUEST CONSULTATION</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
     <section class="section section-height-3 bg-primary-darken border-0 m-0 appear-animation" data-appear-animation="fadeIn">
         <div class="container py-3">
             <div class="row align-items-center justify-content-between">

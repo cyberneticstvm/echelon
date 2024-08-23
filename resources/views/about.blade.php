@@ -116,6 +116,9 @@
                     <li class="social-icons-facebook">
                         <a href="https://www.facebook.com/echelonconsultantsllc" class="no-footer-css" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                     </li>
+                    <li class="social-icons-linked-in mx-4">
+                        <a href="https://www.linkedin.com/company/echelon-consultants-llc" class="no-footer-css" target="_blank" title="Linked In"><i class="fab fa-linkedin"></i></a>
+                    </li>
                 </ul>
             </div>
         </div>
