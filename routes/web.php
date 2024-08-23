@@ -15,3 +15,10 @@ Route::middleware(['web'])->group(function () {
         Route::post('/contact', 'contactSubmit')->name('contact.submit');
     });
 });
+Route::get('/sitemap.xml', function () {
+    return response()->view('sitemap')->header('Content-Type', 'text/xml');
+})->name('sitemap');
+
+Route::get('/robots.txt', function () {
+    return response()->view('robots')->header('Content-Type', 'text/plain');
+})->name('robots');
