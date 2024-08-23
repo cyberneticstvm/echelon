@@ -161,25 +161,60 @@
                 <div class="col-lg-7 text-center px-lg-0">
                     <div class="owl-carousel owl-theme dots-horizontal-center custom-dots-style-1 dots-light mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 1}, '992': {'items': 1}, '1200': {'items': 1}}, 'loop': true, 'nav': false, 'dots': true, 'autoplay': false, 'autoplayTimeout': 7000}">
                         <div>
-                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">“ Cras a elit sit a met leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fils utlricies non. Integer aliquet ullamcorper. ”</p>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"Echelon Consultants provided exceptional legal advice for our international trade agreements. Their attention to detail and expertise in UAE corporate law ensured our contracts were watertight and compliant with all regulations. We couldn't have navigated the complexities of the legal landscape without their guidance."</p>
                             <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
                                 <hr class="my-4 mx-auto">
                             </div>
-                            <strong class="d-block text-color-light text-4 mb-4">- John Doe, Los Angeles, CA</strong>
+                            <strong class="d-block text-color-light text-4 mb-4">- David Albright, CEO, Global Trade Inc.</strong>
                         </div>
                         <div>
-                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">“ Cras a elit sit a met leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fils utlricies non. Integer aliquet ullamcorper. ”</p>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"The team at Echelon Consultants is nothing short of extraordinary. They handled our company’s business setup in Dubai with precision and efficiency, making what seemed like a daunting process seamless. Their expertise gave us the confidence to move forward swiftly and with full compliance."</p>
                             <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
                                 <hr class="my-4 mx-auto">
                             </div>
-                            <strong class="d-block text-color-light text-4 mb-4">- John Doe, Los Angeles, CA</strong>
+                            <strong class="d-block text-color-light text-4 mb-4">- Fatima Khalid, Founder, Tech Innovators LLC</strong>
                         </div>
                         <div>
-                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">“ Cras a elit sit a met leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fils utlricies non. Integer aliquet ullamcorper. ”</p>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"Working with Echelon Consultants was a game-changer for our expansion into the Middle East. Their in-depth knowledge of Dubai's corporate regulations and proactive approach helped us establish our presence quickly and smoothly. We highly recommend their services to any company looking to do business in the region."</p>
                             <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
                                 <hr class="my-4 mx-auto">
                             </div>
-                            <strong class="d-block text-color-light text-4 mb-4">- John Doe, Los Angeles, CA</strong>
+                            <strong class="d-block text-color-light text-4 mb-4">- Michael Wang, Director, Green Energy Solutions</strong>
+                        </div>
+                        <div>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"We were impressed by Echelon Consultants' professionalism and expertise. They assisted us with complex legal issues that could have severely impacted our operations. Thanks to their comprehensive solutions and strategic advice, we avoided potential risks and strengthened our business foundation."</p>
+                            <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
+                                <hr class="my-4 mx-auto">
+                            </div>
+                            <strong class="d-block text-color-light text-4 mb-4">- Priya Menon, CFO, FinTech Innovations</strong>
+                        </div>
+                        <div>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"Echelon Consultants provided unparalleled support during our corporate restructuring. Their legal team guided us through every step, ensuring that all legal aspects were meticulously handled. The result was a more streamlined and efficient corporate structure, setting us up for long-term success."</p>
+                            <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
+                                <hr class="my-4 mx-auto">
+                            </div>
+                            <strong class="d-block text-color-light text-4 mb-4">- - Ahmed Al Saeed, Managing Director, Al Saeed Holdings</strong>
+                        </div>
+                        <div>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"I cannot recommend Echelon Consultants enough. Their team was instrumental in helping us secure the necessary licenses and permits for our new venture in Dubai. Their expertise and connections within the local government made the process straightforward, allowing us to launch on time."</p>
+                            <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
+                                <hr class="my-4 mx-auto">
+                            </div>
+                            <strong class="d-block text-color-light text-4 mb-4">- Emily Thompson, COO, Thompson Hospitality Group</strong>
+                        </div>
+                        <div>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"Echelon Consultants exceeded our expectations with their corporate legal services. Their ability to navigate the intricacies of Dubai's legal framework saved us time and money. The level of satisfaction we experienced with their services is unmatched in our industry."</p>
+                            <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
+                                <hr class="my-4 mx-auto">
+                            </div>
+                            <strong class="d-block text-color-light text-4 mb-4">- Rajesh Kumar, CEO, Innovate Engineering</strong>
+                        </div>
+                        <div>
+                            <p class="text-color-light text-6 custom-font-secondary line-height-4 opacity-8 pb-2 mb-0">"The legal expertise and strategic advice we received from Echelon Consultants were crucial in our successful market entry in Dubai. Their team was responsive, knowledgeable, and always had our best interests at heart. We’re incredibly satisfied with the outcome and look forward to continuing our partnership."</p>
+                            <div class="divider divider-primary divider-small mt-2 mb-4 pb-2">
+                                <hr class="my-4 mx-auto">
+                            </div>
+                            <strong class="d-block text-color-light text-4 mb-4">- Sarah Wilson, Director of Operations, HealthTech Solutions</strong>
                         </div>
                     </div>
                 </div>
