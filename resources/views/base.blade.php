@@ -143,11 +143,11 @@
                                 <a href="tel:+971555425513" class="text-color-light font-weight-bold text-decoration-none text-5">+971 55 542 5513
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <i class="fab fa-whatsapp text-color-primary text-5-5 position-relative top-2 me-2"></i>
                                 <a href="tel:+971528686158" class="text-color-light font-weight-bold text-decoration-none text-5">+971 52 868 6158
                                 </a>
-                            </li>
+                            </li> -->
                             <li class="mb-3">
                                 <i class="icons icon-envelope text-color-primary text-6 position-relative top-6 me-2"></i>
                                 <a href="mailto:info@echelonconsultant.com" class="text-color-light text-decoration-none text-4">info@echelonconsultant.com</a>

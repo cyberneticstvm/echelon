@@ -31,10 +31,10 @@
                             <h3 class="alternative-font-4 font-weight-bold text-color-dark text-transform-none text-4 mb-0">Legal Inquires</h3>
                             <a href="tel:+971555425513" class="d-inline-block text-color-default text-color-hover-primary text-decoration-none mb-4">+971 55 542 5513</a>
                         </div>
-                        <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
+                        <!-- <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
                             <h3 class="alternative-font-4 font-weight-bold text-color-dark text-transform-none text-4 mb-0">Corporate Inquiries</h3>
                             <a href="tel:+971528686158" class="d-inline-block text-color-default text-color-hover-primary text-decoration-none mb-4">+971 52 868 6158</a>
-                        </div>
+                        </div> -->
                         <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                             <h3 class="alternative-font-4 font-weight-bold text-color-dark text-transform-none text-4 mb-0">Assistance Hours</h3>
                             <p>Mon - Sat 9:00am - 6:00pm<br> Sunday - CLOSED</p>
